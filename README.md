@@ -1,7 +1,12 @@
 ## Antoine Mordant
 
-I'm a student at ISART DIGITAL Paris in first year of Game Programming master.
-Feel free to 
+I am currently a first-year master's student in Game Programming at ISART DIGITAL Paris.
+
+Throughout my various projects, I have gained proficiency in multiple programming languages, with a particular focus on C++ and C#.
+
+My primary experience lies in developing projects using Unity, Unreal Engine 4, and Unreal Engine 5. Additionally, I have created custom game engines utilizing OpenGL and Vulkan.
+
+Please feel free to explore my projects at your convenience.
 
 
 <!--
