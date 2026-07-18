@@ -1,6 +1,6 @@
 # Antoine Mordant
 
-I am a game programmer specialized in gameplay and ai, freshly graduated from Game programming master at ISART DIGITAL Paris.
+I am a game programmer specialized in gameplay and ai, freshly graduated from Game Programming master at ISART DIGITAL Paris.
 
 Throughout my various projects, I have gained proficiency in multiple programming languages, with a particular focus on C++ and C#.
 
@@ -17,7 +17,7 @@ Please feel free to explore my projects at your convenience.
 
 During my studies, i had the chance to work on various projects in school and in internship. Here are the best ones :
 
-### TrypFPV
+### [TrypFPV]()
 
 TrypFPV is the most realistic FPV drone simulator on the market. Developed by Undead Battery, it came out on Steam in 2021 in early access and is continuously updated by its dev team.
 
@@ -25,9 +25,15 @@ I had the chance to work on it as a Game Programmer for one and half year. I hav
 - Stats tracking and stockage, linked to Steam
 - Impact damages influencing the drone behavior
 
-### Roller Loop
+### [Roller Loop]()
 
-### AI Drone Flight
+A solo racing game made for PS5 on Unreal Engine 5 in a year with a 20 member team. 
+
+I focused myself on the camera system and the PS5 integration.
+
+### [AI Drone Flight]()
+
+
 
 
 ## More projects
