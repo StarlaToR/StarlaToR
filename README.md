@@ -1,20 +1,41 @@
 # Antoine Mordant
 
-I am currently a first-year master's student in Game Programming at ISART DIGITAL Paris.
+I am a game programmer specialized in gameplay and ai, freshly graduated from Game programming master at ISART DIGITAL Paris.
 
 Throughout my various projects, I have gained proficiency in multiple programming languages, with a particular focus on C++ and C#.
 
-My primary experience lies in developing projects using Unity, Unreal Engine 4 and Unreal Engine 5. Additionally, I have created custom game engines utilizing OpenGL and Vulkan.
+My primary experience lies in developing projects using Unreal Engine 5 and Unity. Additionally, I have created custom game engines utilizing OpenGL and Vulkan.
 
 Please feel free to explore my projects at your convenience.
 
 ## Summary
+* [Main Projects](#main-projects)
+* [Other Projects](#more-projects)
+* [About me](#about-me)
 
+## Main projects
+
+During my studies, i had the chance to work on various projects in school and in internship. Here are the best ones :
+
+### TrypFPV
+
+TrypFPV is the most realistic FPV drone simulator on the market. Developed by Undead Battery, it came out on Steam in 2021 in early access and is continuously updated by its dev team.
+
+I had the chance to work on it as a Game Programmer for one and half year. I have worked on different game systems :
+- Stats tracking and stockage, linked to Steam
+- Impact damages influencing the drone behavior
+
+### Roller Loop
+
+### AI Drone Flight
+
+
+## More projects
+* [Unreal Engine 5](#unreal-engine-5)
 * [Unreal Engine 4](#unreal-engine-4)
     * [Birdmancer](#birdmancer)
     * [Soul Swappers](#soul-swappers)
     * [Unreal Platformer](#unreal-platformer)
-* [Unreal Engine 5](#unreal-engine-5)
 * [Unity](#unity)
     * [The Forest Keeper](#the-forest-keeper)
     * [RTS](#rts)
@@ -29,6 +50,10 @@ Please feel free to explore my projects at your convenience.
     * [Tower Defense](#tower-defense)
 
 
+## Unreal Engine 5
+
+    Coming soon ! 
+    
 ## Unreal Engine 4
 
 ### [Birdmancer](https://github.com/StarlaToR/Birdmancer)
@@ -47,10 +72,6 @@ Video game for Nintendo Switch and PC, this is a cooperative platformer where th
 Platformer game, you play a ghost between the realm of the dead the one of the living in search of your body.
 
 <img src = "Images_README/UnrealPlatformer.png">
-
-## Unreal Engine 5
-
-    Coming soon ! 
 
 ## Unity
 
